@@ -3,4 +3,5 @@ include 'IODemo'
 include 'RedisDataStructure'
 include 'CustomJDKProxy'
 include 'CustomJedis'
+include 'ProxyPatternDemo'
 
