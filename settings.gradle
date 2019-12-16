@@ -1,2 +1,6 @@
 rootProject.name = 'TBryantDemo'
+include 'IODemo'
+include 'RedisDataStructure'
+include 'CustomJDKProxy'
+include 'CustomJedis'
 

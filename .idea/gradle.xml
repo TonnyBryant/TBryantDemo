@@ -8,6 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CustomJDKProxy" />
+            <option value="$PROJECT_DIR$/CustomJedis" />
+            <option value="$PROJECT_DIR$/IODemo" />
+            <option value="$PROJECT_DIR$/RedisDataStructure" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
