@@ -1,4 +1,4 @@
-package com.tbryant.bloomfilter;
+package com.tbryant.bloomfilterdemo;
 
 import com.google.common.base.Charsets;
 import com.google.common.hash.BloomFilter;

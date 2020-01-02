@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":CustomJDKProxy" external.linked.project.path="$MODULE_DIR$/../../../CustomJDKProxy" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.tbryant.demo" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../.." rootProjectPath="$MODULE_DIR$/../../.." />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../CustomJDKProxy">
+      <excludeFolder url="file://$MODULE_DIR$/../../../CustomJDKProxy/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../CustomJDKProxy/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../CustomJDKProxy/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

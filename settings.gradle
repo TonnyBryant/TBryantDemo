@@ -5,4 +5,5 @@ include 'CustomJDKProxy'
 include 'CustomJedis'
 include 'ProxyPatternDemo'
 include 'BloomFilter'
+include 'BloomFilterDemo'
 

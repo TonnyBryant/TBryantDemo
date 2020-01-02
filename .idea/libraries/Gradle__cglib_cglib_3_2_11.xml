@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: cglib:cglib:3.2.11">
+    <CLASSES>
+      <root url="jar://D:/Program Files/gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.11/8f3af3dacba7aa1afa503f30cb216b6579e02729/cglib-3.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/Program Files/gradle/caches/modules-2/files-2.1/cglib/cglib/3.2.11/6fef0aff7e8b93f8a43172cd041d580bef884afc/cglib-3.2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
