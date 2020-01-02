@@ -8,6 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BloomFilter" />
             <option value="$PROJECT_DIR$/CustomJDKProxy" />
             <option value="$PROJECT_DIR$/CustomJedis" />
             <option value="$PROJECT_DIR$/IODemo" />
