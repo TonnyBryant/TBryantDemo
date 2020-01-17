@@ -6,4 +6,5 @@ include 'CustomJedis'
 include 'ProxyPatternDemo'
 include 'BloomFilter'
 include 'BloomFilterDemo'
+include 'SpringMvcTest'
 

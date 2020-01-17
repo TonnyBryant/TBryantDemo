@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'com.tbryant.demo'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.springframework', name: 'spring-webmvc', version: '5.1.12.RELEASE'
+    // 内置tomcat需要
+    compile group: 'org.apache.tomcat.embed', name: 'tomcat-embed-core', version: '8.5.31'
+    // 消息转换器需要
+    compile group: 'com.alibaba', name: 'fastjson', version: '1.2.47'
+    
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

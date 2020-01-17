@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="BloomFilterDemo.com.tbryant.demo.BloomFilterDemo.main" target="1.8" />
+      <module name="BloomFilterDemo.com.tbryant.demo.BloomFilterDemo.test" target="1.8" />
       <module name="com.tbryant.demo.BloomFilter.main" target="1.8" />
       <module name="com.tbryant.demo.BloomFilter.test" target="1.8" />
       <module name="com.tbryant.demo.BloomFilterDemo.main" target="1.8" />
@@ -16,8 +18,22 @@
       <module name="com.tbryant.demo.ProxyPatternDemo.test" target="1.8" />
       <module name="com.tbryant.demo.RedisDataStructure.main" target="1.8" />
       <module name="com.tbryant.demo.RedisDataStructure.test" target="1.8" />
+      <module name="com.tbryant.demo.SpringMvcTest.main" target="1.8" />
+      <module name="com.tbryant.demo.SpringMvcTest.test" target="1.8" />
       <module name="com.tbryant.demo.TBryantDemo.main" target="1.8" />
       <module name="com.tbryant.demo.TBryantDemo.test" target="1.8" />
+      <module name="CustomJDKProxy.com.tbryant.demo.CustomJDKProxy.main" target="1.8" />
+      <module name="CustomJDKProxy.com.tbryant.demo.CustomJDKProxy.test" target="1.8" />
+      <module name="CustomJedis.com.tbryant.demo.CustomJedis.main" target="1.8" />
+      <module name="CustomJedis.com.tbryant.demo.CustomJedis.test" target="1.8" />
+      <module name="IODemo.com.tbryant.demo.IODemo.main" target="1.8" />
+      <module name="IODemo.com.tbryant.demo.IODemo.test" target="1.8" />
+      <module name="ProxyPatternDemo.com.tbryant.demo.ProxyPatternDemo.main" target="1.8" />
+      <module name="ProxyPatternDemo.com.tbryant.demo.ProxyPatternDemo.test" target="1.8" />
+      <module name="RedisDataStructure.com.tbryant.demo.RedisDataStructure.main" target="1.8" />
+      <module name="RedisDataStructure.com.tbryant.demo.RedisDataStructure.test" target="1.8" />
+      <module name="TBryantDemo.com.tbryant.demo.TBryantDemo.main" target="1.8" />
+      <module name="TBryantDemo.com.tbryant.demo.TBryantDemo.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

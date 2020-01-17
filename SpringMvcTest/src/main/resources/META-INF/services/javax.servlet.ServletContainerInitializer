@@ -1,0 +1,3 @@
+#javax.servlet.ServletContainerInitializer
+org.springframework.web.SpringServletContainerInitializer
+#com.tbryant.springmvctest.customspringmvc.core.CustomServletContainerInitializer

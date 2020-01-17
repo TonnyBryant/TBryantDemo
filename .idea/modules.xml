@@ -3,7 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilterDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilterDemo/BloomFilterDemo.com.tbryant.demo.BloomFilterDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilterDemo/BloomFilterDemo.com.tbryant.demo.BloomFilterDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilterDemo/BloomFilterDemo.com.tbryant.demo.BloomFilterDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilterDemo/BloomFilterDemo.com.tbryant.demo.BloomFilterDemo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomJDKProxy/CustomJDKProxy.com.tbryant.demo.CustomJDKProxy.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomJDKProxy/CustomJDKProxy.com.tbryant.demo.CustomJDKProxy.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomJDKProxy/CustomJDKProxy.com.tbryant.demo.CustomJDKProxy.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomJDKProxy/CustomJDKProxy.com.tbryant.demo.CustomJDKProxy.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomJedis/CustomJedis.com.tbryant.demo.CustomJedis.main.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomJedis/CustomJedis.com.tbryant.demo.CustomJedis.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomJedis/CustomJedis.com.tbryant.demo.CustomJedis.test.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomJedis/CustomJedis.com.tbryant.demo.CustomJedis.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IODemo/IODemo.com.tbryant.demo.IODemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/IODemo/IODemo.com.tbryant.demo.IODemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IODemo/IODemo.com.tbryant.demo.IODemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/IODemo/IODemo.com.tbryant.demo.IODemo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilter/JavaCode.TBryantDemo.BloomFilter.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilter/JavaCode.TBryantDemo.BloomFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPatternDemo/ProxyPatternDemo.com.tbryant.demo.ProxyPatternDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPatternDemo/ProxyPatternDemo.com.tbryant.demo.ProxyPatternDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPatternDemo/ProxyPatternDemo.com.tbryant.demo.ProxyPatternDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPatternDemo/ProxyPatternDemo.com.tbryant.demo.ProxyPatternDemo.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDataStructure/RedisDataStructure.com.tbryant.demo.RedisDataStructure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDataStructure/RedisDataStructure.com.tbryant.demo.RedisDataStructure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDataStructure/RedisDataStructure.com.tbryant.demo.RedisDataStructure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDataStructure/RedisDataStructure.com.tbryant.demo.RedisDataStructure.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMvcTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMvcTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilter/TBryantDemo.BloomFilter.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilter/TBryantDemo.BloomFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TBryantDemo.com.tbryant.demo.TBryantDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TBryantDemo.com.tbryant.demo.TBryantDemo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TBryantDemo.com.tbryant.demo.TBryantDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/TBryantDemo.com.tbryant.demo.TBryantDemo.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilterDemo/com.tbryant.demo.BloomFilterDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilterDemo/com.tbryant.demo.BloomFilterDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilterDemo/com.tbryant.demo.BloomFilterDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilterDemo/com.tbryant.demo.BloomFilterDemo.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/BloomFilterDemo/com.tbryant.demo.BloomFilterDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/BloomFilterDemo/com.tbryant.demo.BloomFilterDemo.test.iml" />
@@ -22,6 +38,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDataStructure/com.tbryant.demo.RedisDataStructure.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDataStructure/com.tbryant.demo.RedisDataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDataStructure/com.tbryant.demo.RedisDataStructure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDataStructure/com.tbryant.demo.RedisDataStructure.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/RedisDataStructure/com.tbryant.demo.RedisDataStructure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/RedisDataStructure/com.tbryant.demo.RedisDataStructure.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMvcTest/com.tbryant.demo.SpringMvcTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMvcTest/com.tbryant.demo.SpringMvcTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMvcTest/com.tbryant.demo.SpringMvcTest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMvcTest/com.tbryant.demo.SpringMvcTest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringMvcTest/com.tbryant.demo.SpringMvcTest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringMvcTest/com.tbryant.demo.SpringMvcTest.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tbryant.demo.TBryantDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tbryant.demo.TBryantDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tbryant.demo.TBryantDemo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tbryant.demo.TBryantDemo.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.tbryant.demo.TBryantDemo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.tbryant.demo.TBryantDemo.test.iml" />
