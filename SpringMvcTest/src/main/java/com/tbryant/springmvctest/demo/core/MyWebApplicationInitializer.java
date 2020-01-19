@@ -18,8 +18,8 @@ public class MyWebApplicationInitializer implements WebApplicationInitializer {
 //		ac.refresh();
         // DispatcherServlet装载到web容器
         DispatcherServlet servlet = new DispatcherServlet(ac);
-        ServletRegistration.Dynamic registration = servletCxt.addServlet("DispatcherServlet", servlet);
+        ServletRegistration.Dynamic registration = servletCxt.addServlet("app", servlet);
         registration.setLoadOnStartup(1);
-        registration.addMapping("/");
+        registration.addMapping("/app/*");
     }
 }

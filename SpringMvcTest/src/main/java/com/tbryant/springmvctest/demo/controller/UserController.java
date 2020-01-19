@@ -12,5 +12,4 @@ public class UserController {
     public UserEntity getUser() {
         return new UserEntity("TBryant", "18");
     }
-
 }

@@ -20,7 +20,7 @@ public class AppConfig implements WebMvcConfigurer {
 	// 配置视图解析器
 	@Override
 	public void configureViewResolvers(ViewResolverRegistry registry) {
-//		registry.jsp("/page/",".html");
+		registry.jsp("/page/",".html");
 	}
 	// 配置消息转换器 这里用fastjson，可以自由选择
 	@Override
